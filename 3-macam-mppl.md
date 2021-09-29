@@ -40,3 +40,21 @@ Metode Prototype merupakan suatu paradigma baru dalam metode pengembangan perang
  2. Biasanya kurang fleksibel dalam mengahadapi perubahan.
  3. Walaupun pemakai melihat berbagai perbaikan dari setiap versi prototype, tetapi pemakai mungkin tidak menyadari bahwa versi tersebut dibuat tanpa memperhatikan kualitas dan pemeliharaan jangka panjang.
  4. Pengembang kadang-kadang membuat kompromi implementasi dengan menggunakan sistem operasi yang tidak relevan dan algoritma yang tidak efisien.
+
+### 3. Agile Model
+Model Agile merupakan model pengembangan jangka pendek yang memerlukan adaptasi cepat dan pengembangan terhadap perubahan dalam bentuk apapun. Dalam agile terdapat beberapa poin penting diantaranya sebagai berikut:
+
+ 1. Interaksi antar personal lebih penting daripada proses dan alat.
+ 2. Software yang berfungsi lebih penting daripada dokumentasi yang lengkap
+ 3. Kolaborasi dengan klien lebih penting daripada negoisasi kontrak.
+ 4. Sikap tanggap lebih penting daripada mengikuti rencana/plan.
+
+**Kelebihan Model Agile**
+
+ 1. Functional dapat dibuat dengan cepat dan dilakukan testing
+ 2. Perubahan dengan cepat ditangani
+
+**Kelemahan Model Agile**
+
+ 1. Analisis, desain, dan pengembangan sulit diprediksi
+ 2. Dapat memunculkan permasalahan dari arsitektur maupun desain.
