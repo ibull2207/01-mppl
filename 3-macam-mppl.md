@@ -20,3 +20,23 @@ Metode pengembangan sistem metode SDLC(Sistem Development Life Cycle) atau serin
  4. Pelanggan harus sabar untuk menanti produk selesai, karena dikerjakan tahap per tahap, dan proses pengerjaanya akan berlanjut ke setiap tahapan bila tahap sebelumnya sudah benar-benar selesai.
  5. Perubahan ditengah-tengah pengerjaan produk akan membuat bingung tim pengembang yang sedang membuat produk.
  6. Adanya waktu kosong (menganggur) bagi pengembang, karena harus menunggu anggota tim proyek lainnya menuntaskan pekerjaannya.
+
+### 2. Prototype Model 
+Metode Prototype merupakan suatu paradigma baru dalam metode pengembangan perangkat lunak dimana metode ini tidak hanya sekedar evolusi dalam dunia pengembangan perangkat lunak, tetapi juga merevolusi metode pengembangan perangkat lunak yang lama yaitu sistem sekuensial yang biasa dikenal dengan nama SDLC atau waterfall development model. Dalam Model Prototype, prototype dari perangkat lunak yang dihasilkan kemudian dipresentasikan kepada pelanggan, dan pelanggan tersebut diberikan kesempatan untuk memberikan masukan sehingga perangkat lunak yang dihasilkan nantinya betul-betul sesuai dengan keinginan dan kebutuhan pelanggan.
+
+**Kelebihan Model Prototype**
+
+ 1. Pelanggan berpartisipasi aktif dalam pengembangan sistem, sehingga hasil produk pengembangan akan semakin mudah disesuaikan dengan keinginan dan kebutuhan pelanggan.
+ 2. Penentuan kebutuhan lebih mudah diwujudkan.
+ 3. Mempersingkat waktu pengembangan produk perangkat lunak.
+ 4. Adanya komunikasi yang baik antara pengembang dan pelanggan.
+ 5. Pengembang dapat bekerja lebih baik dalam menentukan kebutuhan pelanggan.
+ 6. Lebih menghemat waktu dalam pengembangan sistem.
+ 7. Penerapan menjadi lebih mudah karena pelanggan mengetahui apa yang diharapkannya.
+
+**Kekurangan Model Prototype**
+
+ 1. Proses analisis dan perancangan terlalu singkat.
+ 2. Biasanya kurang fleksibel dalam mengahadapi perubahan.
+ 3. Walaupun pemakai melihat berbagai perbaikan dari setiap versi prototype, tetapi pemakai mungkin tidak menyadari bahwa versi tersebut dibuat tanpa memperhatikan kualitas dan pemeliharaan jangka panjang.
+ 4. Pengembang kadang-kadang membuat kompromi implementasi dengan menggunakan sistem operasi yang tidak relevan dan algoritma yang tidak efisien.
